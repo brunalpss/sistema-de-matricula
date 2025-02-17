@@ -1,0 +1,5 @@
+Como aluno, é necessário poder realizar login na plataforma da universidade e solicitar a matrículas nas disciplinas obrigatórias e também verificar a possibilidade de me inscrever em disciplinas optativas. É necessário que eu receba a cobrança da minha mensalidade e também que eu possa cancelar a matrícula em uma ou mais disciplinas que eu não desejo mais cursar.
+
+Como professo, é necessário que eu realize login no sistema da universidade para verificar as disciplinas que leciono e ver quantos alunos estão cadastrados nelas para que eu possa planejar minhas aulas.
+
+Como a secretaria da universidade, é necessário que eu tenho controle sobre os professores, alunos, currículos e disciplinas ofertadas. Tudo isso para que eu possa gerenciar os cadastros de cada e fechar as matrículas para as disciplinas cheias ou então cancelar a oferta da disciplina para aquelas que não obtiverem quórum mínimo.
