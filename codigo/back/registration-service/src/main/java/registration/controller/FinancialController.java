@@ -6,10 +6,11 @@ import org.springframework.web.bind.annotation.*;
 @RestController
 @RequestMapping("/api")
 @CrossOrigin(origins = "http://localhost:3000")
-public class HelloController {
+public class FinancialController {
 
-    @GetMapping("/hello")
-    public ResponseEntity<String> sayHello() {
-        return ResponseEntity.ok("Hello, world!");
+    @GetMapping("/financial/{id}")
+    public ResponseEntity<Void> getFinancial(@PathVariable String id) {
+        return ResponseEntity.ok().build();
     }
+
 }
